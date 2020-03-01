@@ -18,6 +18,6 @@ cd system/netd
 git apply -v ../../device/sony/pine/patches/system/0004-system_netd.patch
 cd ../..
 cd system/core
-git apply -v ../../device/sony/pine/patches/0001-for-pine.patch
+git apply -v ../../device/sony/pine/patches/system/0001-for-pine.patch
 #patch -p1 <  ../../device/sony/pine/patches/core.patch
 cd ../..
