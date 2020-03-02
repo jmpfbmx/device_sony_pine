@@ -1,0 +1,14 @@
+[
+  {
+    "remote":      "github",
+    "repository":  "jmpfbmx/kernel_sony_pine",
+    "target_path": "kernel/sony/pine",
+    "revision":    "cm-14.1-battery-testing"
+  },
+  {
+    "remote":      "github",
+    "repository":  "jmpfbmx/vendor_sony_pine",
+    "target_path": "vendor/sony/pine",
+    "revision":    "nougat"
+  }
+]

@@ -1,8 +1,0 @@
-[
-  {
-    "target_path": "vendor/sony/pine",
-    "repository":  "rote66/vendor_sony_pine",
-    "remote":      "github",
-    "revision":    "los14.1
-  }
-]
