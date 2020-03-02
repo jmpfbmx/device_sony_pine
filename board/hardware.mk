@@ -13,3 +13,7 @@ TARGET_PROVIDES_LIBLIGHT := true
 
 # Shims
 TARGET_LDPRELOAD += libmtk_symbols.so
+
+LINKER_FORCED_SHIM_LIBS := \
+    /system/vendor/lib/libcam.paramsmgr.so|libshim_sony_camera.so \
+    /system/vendor/lib64/libcam.paramsmgr.so|libshim_sony_camera.so

@@ -27,7 +27,8 @@ PRODUCT_PACKAGES += \
     libmtk_symbols \
     libxlog \
     libperfservicenative \
-    libcurl 
+    libcurl \
+    libshim_sony_camera
 
 #vendor_libs
 PRODUCT_PACKAGES += \
