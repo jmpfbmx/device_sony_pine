@@ -9,6 +9,6 @@
     "remote":      "github",
     "repository":  "jmpfbmx/vendor_sony_pine",
     "target_path": "vendor/sony/pine",
-    "revision":    "nougat"
+    "revision":    "7.x"
   }
 ]
