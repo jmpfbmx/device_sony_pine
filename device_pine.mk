@@ -30,6 +30,11 @@ TARGET_SPECIFIC_HEADER_PATH := $(DEVICE_PATH)/include
 # Overlay
 DEVICE_PACKAGE_OVERLAYS += $(DEVICE_PATH)/overlay
 
+#mtk
+PRODUCT_PACKAGES += \
+    EngineerMode \
+    YGPS
+
 # Configure dalvik heap
 $(call inherit-product, frameworks/native/build/phone-xhdpi-2048-dalvik-heap.mk)
 
