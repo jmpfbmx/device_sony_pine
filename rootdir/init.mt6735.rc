@@ -48,8 +48,10 @@ on init
 	 /system/vendor/bin/program_binary_builder|libmtk_symbols.so: \
 	 /system/vendor/bin/vtservice|libmtk_symbols.so: \
 	 /system/vendor/lib/libcam_utils.so|libmtk_symbols.so: \
-	 /system/vendor/lib64/libcam_utils.so|libmtk_symbols.so"
-
+	 /system/vendor/lib64/libcam_utils.so|libmtk_symbols.so: \
+         /system/vendor/lib/libcam.paramsmgr.so|libshim_sony_camera.so: \
+         /system/vendor/lib64/libcam.paramsmgr.so|libshim_sony_camera.so"
+    
     # Support legacy paths
     symlink /sdcard /mnt/sdcard
 
