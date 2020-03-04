@@ -18,15 +18,6 @@ Dimensions | 151 x 74 x 8.7 mm
 Display | 5.5" IPS LCD 720 x 1280 px
 Camera  | 13 MP, f/2.2, autofocus
 
-![Sony XPERIA L1](https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-l1-0.jpg)
-
-Device for G3311
-
-For 3.18 kernel
-
-===========================
-
-
 ### Credits:
   - KJONES
   - BILUX
@@ -39,14 +30,4 @@ For 3.18 kernel
   - rote66
   - All developers who develop the mtk platform
 
-  
--Now is for the test,dont use it
-
-- current process:
-
-- WIFI fixed
-- Battery status fixed
-- Bluetooth fixed
-- OMX fixed
-- Audio fixed
-
+![Sony XPERIA L1](https://fdn2.gsmarena.com/vv/pics/sony/sony-xperia-l1-0.jpg)
