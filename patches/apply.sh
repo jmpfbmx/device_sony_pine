@@ -32,6 +32,13 @@ cd frameworks/native
 git apply -v 1-patches/native.patch
 cd ../..
 sleep 2
+echo "Apply frameworks/opt/telephony Patches"
+mkdir -p frameworks/opt/telephony/1-patches
+cp -r device/sony/pine/patches/frameworks/telephony.patch frameworks/opt/telephony/1-patches
+cd frameworks/opt/telephony
+git apply -v 1-patches/telephony.patch
+cd ../../..
+sleep 2
 echo "Apply system/core Patches"
 mkdir -p system/core/1-patches
 cp -r device/sony/pine/patches/0001-for-pine.patch system/core/1-patches
