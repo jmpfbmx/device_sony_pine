@@ -3,7 +3,7 @@
 
 extern "C" {
    /* Sony Camera Related Symbols */
-   void _ZN7android19MtkCameraParameters19SONY_SCENE_MODE_PET(void);
+   void _ZN7android19MtkCameraParameters19SONY_SCENE_MODE_PETE(void);
    void _ZN7android19MtkCameraParameters19SONY_SCENE_MODE_BABY(void);
    void _ZN7android16CameraParameters19SONY_SCENE_MODE_PETE(void);
    void _ZN7android16CameraParameters19SONY_SCENE_MODE_DARK(void);
