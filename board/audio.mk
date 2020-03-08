@@ -1,6 +1,0 @@
-# Audio
-BOARD_USES_MTK_AUDIO := true
-USE_XML_AUDIO_POLICY_CONF := 1
-
-# Exclude AudioFx
-TARGET_EXCLUDES_AUDIOFX := true
