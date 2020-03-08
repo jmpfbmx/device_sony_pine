@@ -24,6 +24,7 @@ Camera  | 13 MP, f/2.2, autofocus
   - R0RTIZ2
   - PAUL (SODP)
   - jmpfbmx
+  - Myst33d
   - divis1969
   - mohancm
   - DhiraJMS
